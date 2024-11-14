@@ -12,6 +12,7 @@
 
 - ⚡In my free time I'm studying
   - Neural Networks
+  - Classical Music
   - Active Inference
   - Economic History
   - Anthropics
