@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi
 
-<!--
-**Tim2othy/Tim2othy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on
+  - Teaching an AI to fly a spaceship
+  - Teaching an AI to transcribe handwriting
 
-Here are some ideas to get you started:
+- 🌱 At University I’m currently studying:
+  - Markov Chains
+  - Game Theory
+  - Algorithmic Maths
+  - Statistical Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡In my free time I'm studying
+  - Neural Networks
+  - Active Inference
+  - Economic History
+  - Anthropics
