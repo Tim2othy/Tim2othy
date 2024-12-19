@@ -6,7 +6,7 @@
   - Algorithmic Maths
   - Statistical Learning
 
-- ⚡In my free time I also study
+- ⚡In my free time I also think about
   - Neural Networks
   - Classical Music
   - Anthropics
